@@ -12,6 +12,7 @@ $fn = 256;  // smoothness
 Outer_Diameter_Lip   = 65;
 Outer_Diameter_Body  = 51;
 Outer_Diameter_Top   = Outer_Diameter_Body - 4;
+
 Height_Lip   = 3;
 Height_Body   = 35;   // top after outer chamfer
 Height_Chamfer = Height_Body - 2;   // start of chamfer region
