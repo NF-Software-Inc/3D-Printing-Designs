@@ -43,7 +43,7 @@ To work with these designs, you'll need:
 
 ## MakerWorld
 
-All models in this repository are also available on [MakerWorld](https://makerworld.com/) as parametric models. Visit our MakerWorld profile for:
+All models in this repository are also available on [MakerWorld](https://makerworld.com/en/@nfsoftware) as parametric models. Visit our MakerWorld profile for:
 - Pre-configured model variations
 - Print profiles and settings recommendations
 - Community makes and remixes
@@ -92,7 +92,7 @@ For questions, issues, or suggestions:
 ## Acknowledgments
 
 - Built with [OpenSCAD](https://openscad.org/)
-- Shared on [MakerWorld](https://makerworld.com/)
+- Shared on [MakerWorld](https://makerworld.com/en/@nfsoftware)
 - Part of the NF Software Inc open-source initiative
 
 ---
